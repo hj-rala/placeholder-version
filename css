@@ -1,12 +1,8 @@
-
-input::placeholder {color:#9d9d9d;opacity: 1;}/* IE10 이상을 위한 css */
-input::-webkit-input-placeholder {color:#9d9d9d;}/* WebKit, Blink, Edge */
-input:-ms-input-placeholder {color:#9d9d9d;}/* IE */
-input:-mos-input-placeholder {color:#9d9d9d;}/* Firefox */
-
-textarea::placeholder {color: #9d9d9d;opacity: 1;}/* IE10 이상을 위한 css */
-textarea::-webkit-input-placeholder {color: #9d9d9d;}/* WebKit, Blink, Edge */
-textarea:-ms-input-placeholder {color: #9d9d9d;}/* IE */
-textarea:-mos-input-placeholder {color: #9d9d9d;}/* Firefox */
-
-
+input::placeholder {color:#a8a8a8 !important;opacity: 1;}/* IE10 이상을 위한 css */
+input::-webkit-input-placeholder {color:#a8a8a8 !important;}/* WebKit, Blink, Edge */
+input:-ms-input-placeholder {color:#a8a8a8 !important;}/* IE */
+input:-mos-input-placeholder {color:#a8a8a8 !important;}/* Firefox */
+textarea::placeholder {color: #a8a8a8 !important;opacity: 1;}/* IE10 이상을 위한 css */
+textarea::-webkit-input-placeholder {color: #a8a8a8 !important;}/* WebKit, Blink, Edge */
+textarea:-ms-input-placeholder {color: #a8a8a8 !important;}/* IE */
+textarea:-mos-input-placeholder {color: #a8a8a8 !important;}/* Firefox */
